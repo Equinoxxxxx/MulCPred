@@ -1,7 +1,7 @@
 # Visualization of the concepts
 ## TITAN crossing prediction
 ### Concepts for trajectory
-![image](https://github.com/Equinoxxxxx/MulCPred/blob/main/concepts_visualization/TITAN_cross_trajectory.png)
+![image](https://github.com/Equinoxxxxx/MulCPred/blob/main/concepts_visualization/TITAN_cross_trajectory.png){width=400px}
 
 
 ### Concepts for ego-motion
